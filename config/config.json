@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x13b7D5fE54Eb1f273e48e4098C352F0334584335",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x13b7D5fE54Eb1f273e48e4098C352F0334584335",
+  "NETWORK": {
+    "NAME": "Rinkeby Test",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Polyverse Eyes",
+  "SYMBOL": "PLVR",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.002,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/polyverse",
+  "SHOW_BACKGROUND": false
+}
